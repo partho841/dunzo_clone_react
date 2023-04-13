@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dunzo_clone_react/static/css/main.88d1e045.css",
+    "main.js": "/dunzo_clone_react/static/js/main.a6c66fa7.js",
+    "static/js/787.26ac9cf7.chunk.js": "/dunzo_clone_react/static/js/787.26ac9cf7.chunk.js",
+    "static/media/Gilroy-UltraLight.ttf": "/dunzo_clone_react/static/media/Gilroy-UltraLight.68e17ccd6916d61b2671.ttf",
+    "static/media/Gilroy-Light.ttf": "/dunzo_clone_react/static/media/Gilroy-Light.1b7fff53076b21283967.ttf",
+    "static/media/Gilroy-Medium.ttf": "/dunzo_clone_react/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
+    "static/media/Gilroy-Regular.ttf": "/dunzo_clone_react/static/media/Gilroy-Regular.b91b0127c56a8e5f9e83.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/dunzo_clone_react/static/media/Gilroy-SemiBold.6780292641f883b3dad3.ttf",
+    "static/media/Gilroy-Bold.ttf": "/dunzo_clone_react/static/media/Gilroy-Bold.b900325e44ec0c673e88.ttf",
+    "static/media/Gilroy-Black.ttf": "/dunzo_clone_react/static/media/Gilroy-Black.bf3a5f799e6799d48062.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/dunzo_clone_react/static/media/Gilroy-ExtraBold.0ac6879cd286550da903.ttf",
+    "index.html": "/dunzo_clone_react/index.html",
+    "main.88d1e045.css.map": "/dunzo_clone_react/static/css/main.88d1e045.css.map",
+    "main.a6c66fa7.js.map": "/dunzo_clone_react/static/js/main.a6c66fa7.js.map",
+    "787.26ac9cf7.chunk.js.map": "/dunzo_clone_react/static/js/787.26ac9cf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d1e045.css",
+    "static/js/main.a6c66fa7.js"
+  ]
+}
